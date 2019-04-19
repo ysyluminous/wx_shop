@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="itmayiedu-shopp-api-member" />
+        <module name="itmayiedu-shopp-api-pay" />
+        <module name="itmayiedu-shopp-common" />
+        <module name="itmayiedu-shopp-eurekaserver" />
+        <module name="itmayiedu-shopp-message" />
+        <module name="itmayiedu-shopp-order" />
+        <module name="itmayiedu-shopp-pay" />
+        <module name="itmayiedu-shopp-pc-web" />
+        <module name="itmayiedu_shopp-weixin" />
+        <module name="yaosiyuan-shopp-api-member" />
+        <module name="yaosiyuan-shopp-api-pay" />
+        <module name="yaosiyuan-shopp-common" />
+        <module name="yaosiyuan-shopp-eurekaserver" />
+        <module name="yaosiyuan-shopp-member" />
+        <module name="yaosiyuan-shopp-message" />
+        <module name="yaosiyuan-shopp-order" />
+        <module name="yaosiyuan-shopp-pay" />
+        <module name="yaosiyuan-shopp-pc-web" />
+        <module name="yaosiyuan_shopp-weixin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="itmayiedu-shopp-api" target="1.5" />
+      <module name="itmayiedu-shopp-api-member" target="1.8" />
+      <module name="itmayiedu-shopp-api-pay" target="1.8" />
+      <module name="itmayiedu-shopp-common" target="1.8" />
+      <module name="itmayiedu-shopp-eurekaserver" target="1.8" />
+      <module name="itmayiedu-shopp-member" target="1.8" />
+      <module name="itmayiedu-shopp-message" target="1.8" />
+      <module name="itmayiedu-shopp-order" target="1.8" />
+      <module name="itmayiedu-shopp-parent" target="1.8" />
+      <module name="itmayiedu-shopp-pay" target="1.8" />
+      <module name="itmayiedu-shopp-pc-web" target="1.8" />
+      <module name="itmayiedu_shopp-weixin" target="1.8" />
+      <module name="yaosiyuan-shopp-api" target="1.8" />
+      <module name="yaosiyuan-shopp-api-member" target="1.8" />
+      <module name="yaosiyuan-shopp-api-pay" target="1.8" />
+      <module name="yaosiyuan-shopp-common" target="1.8" />
+      <module name="yaosiyuan-shopp-eurekaserver" target="1.8" />
+      <module name="yaosiyuan-shopp-member" target="1.8" />
+      <module name="yaosiyuan-shopp-message" target="1.8" />
+      <module name="yaosiyuan-shopp-order" target="1.8" />
+      <module name="yaosiyuan-shopp-pay" target="1.8" />
+      <module name="yaosiyuan-shopp-pc-web" target="1.8" />
+      <module name="yaosiyuan_shopp-weixin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

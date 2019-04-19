@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.itmayiedu</groupId>
-	<artifactId>itmayiedu-shopp-parent</artifactId>
+	<groupId>com.yaosiyuan</groupId>
+	<artifactId>yaosiyuan-shopp-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -181,14 +181,14 @@
 	</repositories>
 
 	<modules>
-		<module>itmayiedu-shopp-common</module>
-		<module>itmayiedu-shopp-eurekaserver</module>
-		<module>itmayiedu-shopp-api</module>
-		<module>itmayiedu-shopp-member</module>
-		<module>itmayiedu-shopp-message</module>
-		<module>itmayiedu-shopp-pc-web</module>
-		<module>itmayiedu_shopp-weixin</module>
-		<module>itmayiedu-shopp-pay</module>
-		<module>itmayiedu-shopp-order</module>
+		<module>yaosiyuan-shopp-common</module>
+		<module>yaosiyuan-shopp-eurekaserver</module>
+		<module>yaosiyuan-shopp-api</module>
+		<module>yaosiyuan-shopp-member</module>
+		<module>yaosiyuan-shopp-message</module>
+		<module>yaosiyuan-shopp-pc-web</module>
+		<module>yaosiyuan_shopp-weixin</module>
+		<module>yaosiyuan-shopp-pay</module>
+		<module>yaosiyuan-shopp-order</module>
 	</modules>
 </project>

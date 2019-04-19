@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: yaosiyuan-shopp-api-member
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.yaosiyuan
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/yaosiyuan-sh
+ opp-parent/yaosiyuan-shopp-api/yaosiyuan-shopp-api-member/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
