@@ -48,6 +48,7 @@
       <module name="yaosiyuan-shopp-member" target="1.8" />
       <module name="yaosiyuan-shopp-message" target="1.8" />
       <module name="yaosiyuan-shopp-order" target="1.8" />
+      <module name="yaosiyuan-shopp-parent" target="1.8" />
       <module name="yaosiyuan-shopp-pay" target="1.8" />
       <module name="yaosiyuan-shopp-pc-web" target="1.8" />
       <module name="yaosiyuan_shopp-weixin" target="1.8" />
